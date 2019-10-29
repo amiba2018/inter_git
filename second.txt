@@ -1,5 +1,6 @@
 git練習中
 変更
 git add
-git commi
-さらに変更t
+git commti
+さらに変更
+git status

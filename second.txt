@@ -4,3 +4,5 @@ git add
 git commti
 さらに変更
 git status
+git diff
+さらさらヘアー
